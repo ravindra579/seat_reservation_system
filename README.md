@@ -32,7 +32,7 @@ Tech stack - MongoDB
 }
 ```
  
-Frontend deployed in netlify -  [URL](https://app.netlify.com/sites/unstop-fullstack-assessment/settings/general)
+Frontend deployed in netlify -  [URL](https://unstop-fullstack-assessment.netlify.app/)
 
 Backend deployed in vercel - [URL](https://backend-reservation-system-tloy.vercel.app/)
 
