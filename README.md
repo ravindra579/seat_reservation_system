@@ -35,3 +35,10 @@ Tech stack - MongoDB
 Frontend deployed in netlify -  [URL](https://app.netlify.com/sites/unstop-fullstack-assessment/settings/general)
 
 Backend deployed in vercel - [URL](https://backend-reservation-system-tloy.vercel.app/)
+
+## About Algorithm
+
+An algorithm code is written to automatically allocate seats according to the number of seats required based on three conditions
+- case:1 if a row consisits of sufficient number of seats required to book them we have to book in the same row
+- case:2 if seats are not enough in a single row we have book such that all are close enough
+- case:3 if not sufficient seats are there we should not book seats
